@@ -8,4 +8,5 @@ int main()
    {
         std::cout << i << std::endl;
    }
+   std::cin.get();
 }
