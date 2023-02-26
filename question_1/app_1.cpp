@@ -1,5 +1,4 @@
 #include <iostream>
-#include <climits>
 
 int main()
 {
@@ -10,5 +9,4 @@ int main()
    }
    std::cin.get();
    std::cin.get();
-	
 }
