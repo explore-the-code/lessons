@@ -1,4 +1,4 @@
 # lessons
-Приклади коду С++
+Сode examples С++ 
 
-[TEST](https://yewtu.be/watch?v=lOISSwHM7e0&list=PLeDR6lYFEHWEUxwSA8OplPLvk50DCVraH&index=2)
+[TEST 8 class C++](https://docs.google.com/forms/d/e/1FAIpQLSeHd3bn-5MM-MCuDUOxytqaoFVH71slbN_A0zF8EubaSseXOQ/viewform?usp=sharing)
